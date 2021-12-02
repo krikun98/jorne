@@ -1,4 +1,4 @@
-19362965600577236
+19410429348749670
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83125,13 +83125,6 @@ R
 1
 1
 kbd
-Battery_Header
-Through hole straight pin header, 1x02, 2.54mm pitch, single row
-Through hole pin header THT 1x02 2.54mm single row
-0
-2
-2
-kbd
 Breakaway_Tabs
 
 
@@ -83384,6 +83377,20 @@ MJ-4PP-9_1side
 4
 4
 kbd
+MX-Alps-HS-1.5U
+
+
+0
+6
+2
+kbd
+MX-Alps-HS-1U
+
+
+0
+6
+2
+kbd
 MX_ALPS_PG1350_noLed
 
 
@@ -83398,18 +83405,18 @@ MX_ALPS_PG1350_noLed_1.75u
 11
 2
 kbd
-MX_Hitek_725_1.5U_reversible
+MX_Alps_Hitek_725_1.5U_reversible
 Cherry MX keyswitch, 1.50u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 1.50u PCB
 0
-8
+12
 2
 kbd
-MX_Hitek_725_1U_reversible
+MX_Alps_Hitek_725_1U_reversible
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 1.00u PCB
 0
-8
+12
 2
 kbd
 OLED
@@ -83518,6 +83525,13 @@ SW_Hole
 0
 kbd
 SW_Hole_ALPS
+
+
+0
+0
+0
+kbd
+SW_Hole_HiTek
 
 
 0
@@ -83658,6 +83672,48 @@ mounting hole 2.2mm no annular m2
 0
 kbd
 waffle
+
+
+0
+0
+0
+sporne
+Battery_Header
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+sporne
+MX_Alps_Hitek_725_1.5U_reversible
+Cherry MX keyswitch, 1.50u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.50u PCB
+0
+12
+2
+sporne
+MX_Alps_Hitek_725_1.5U_reversible_thumb
+Cherry MX keyswitch, 1.50u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.50u PCB
+0
+16
+2
+sporne
+MX_Alps_Hitek_725_1U_reversible
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+12
+2
+sporne
+MX_Alps_Hitek_725_1U_reversible_thumb
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+16
+2
+sporne
+sporne-logo-small
 
 
 0

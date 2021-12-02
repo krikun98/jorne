@@ -2,6 +2,7 @@
   "board": {
     "active_layer": 0,
     "active_layer_preset": "",
+    "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -52,19 +53,18 @@
       23,
       24,
       25,
-      26,
-      27,
-      28,
-      29,
-      30,
+      34,
+      35,
       36,
-      37
+      37,
+      38
     ],
-    "visible_layers": "fffffff_ffffffff"
+    "visible_layers": "fffffff_ffffffff",
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "corne-cherry.kicad_prl",
-    "version": 2
+    "version": 3
   },
   "project": {
     "files": []
